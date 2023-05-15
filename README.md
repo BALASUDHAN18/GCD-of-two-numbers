@@ -17,9 +17,10 @@ To write a program to find the GCD of two numbers using function.
 ```
 
 Program to find the gcd of two number using function.
-```
 Developed by:BALASUDHAN P 
 RegisterNumber: 212222240017 
+```
+```
 m #To find the gcd of a number 
 #Name: Bala sudhan P
 #Register number: 212222240017
